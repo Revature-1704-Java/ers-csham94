@@ -1,4 +1,4 @@
-package com.revature.ems;
+package com.revature.ers;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
