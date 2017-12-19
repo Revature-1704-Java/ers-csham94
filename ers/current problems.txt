@@ -1,0 +1,2 @@
+cannot get program to connect to database
+working on that before working on functions
